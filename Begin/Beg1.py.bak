@@ -1,0 +1,5 @@
+square_side = input("side: ")
+p = square_side * 4
+print(p)
+
+

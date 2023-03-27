@@ -1,0 +1,7 @@
+a = float(input("a = "))
+b = float(input("b = "))
+
+print(a + b)
+print(a - b)
+print(a * b)
+print(round(a ** 2 / b ** 2, 2))

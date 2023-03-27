@@ -1,0 +1,5 @@
+square_side = input("Side: ") # Side: a 
+S = int(square_side) ** 2
+print(S)
+
+

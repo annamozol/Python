@@ -1,0 +1,10 @@
+a = int(input("a = "))
+b = int(input("b = "))
+a = c
+b = d
+
+a = d
+b = c
+
+print(a)
+print(b)

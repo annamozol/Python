@@ -1,0 +1,7 @@
+a = int(input("side 1 = "))
+b = int(input("side 2 = "))
+p = (a + b) * 2
+s = a * b
+print("P = ", p)
+print("S = ", s)
+

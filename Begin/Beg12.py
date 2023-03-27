@@ -1,0 +1,9 @@
+import math
+
+a = int(input("a = "))
+b = int(input("b = "))
+c = round(math.sqrt(a ** 2 + b ** 2), 2)
+
+print("c = ", c)
+print("P = ", a + b + c)
+
